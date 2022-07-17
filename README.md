@@ -1,11 +1,11 @@
 # KODLUYORUZ ILK REPO
 
-Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End Egitiminde ilk repo. İcerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End Egitiminde ilk repo. Icerisinde bir adet README dosyasi, bir adet de index.html barindiriyor.
 
 
 ## Installation
 
-Oncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldiginiz link gelecek)
+Oncelikle projeyi clonelayin. (Buraya sizin reponuzdan aldiginiz link gelecek)
 
     git clone https://github.com/ogco123/kodluyoruzilkrepo
 
@@ -22,7 +22,7 @@ Linux icin:
 
 ## Contributing
 
-Pull requestler kabul edilir. Buyuk degisiklikler icin, lutfen ınce neyi degistirmek istediginizi tartısmak ıcın bir konu acınız.
+Pull requestler kabul edilir. Buyuk degisiklikler icin, lutfen once neyi degistirmek istediginizi tartısmak ıcın bir konu aciniz.
 
 
 ## License
