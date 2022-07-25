@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1300px;
+    height: 500px;
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+.logobar {
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+.center {
+    display: block;
+    text-align: center;
+    background-color: #EEEEEE;
+}
+
+.search {
+    width: 313px;
+    height: 17px;
+}
+
+.btn {
+    padding: 1px 6px;
+}
+
+.clear {
+    clear: both;
+}
+
+.nav_lft {
+    display: block;
+    text-align: left;
+    margin: 2px;
+    float: left;
+    width: 37%;
+    height: 75px;
+    text-align: center;
+    background-color: #7EE5DA;
+    padding-top: 10px;
+}
+
+.nav_cnt {
+    display: block;
+    text-align: center;
+    margin: 2px;
+    float: left;
+    width: 25%;
+    height: 75px;
+    text-align: center;
+    background-color: #70CCC2;
+    padding-top: 10px;;
+}
+
+.nav_rght {
+    display: block;
+    text-align: right;
+    margin: 2px;
+    float: left;
+    width: 37%;
+    height: 85px;
+    text-align: center;
+    background-color: #62B3AA;
+}
+
+p {
+    text-align: center;
+}
