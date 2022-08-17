@@ -10,7 +10,7 @@ function clockFunction(){
     let hr = dateTime.getHours();
     let min = dateTime.getMinutes();
     let sec = dateTime.getSeconds();
-    document.querySelector("#myClock").innerHTML = `${hr}: ${min}: ${sec}: ${day}`
+    document.querySelector("#myClock").innerHTML = `${hr}: ${min}: ${sec} - ${day}`
 }
 
     setInterval(clockFunction, 1000);
